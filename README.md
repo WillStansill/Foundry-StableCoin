@@ -54,7 +54,7 @@ forge script script/Deploy.s.sol --rpc-url <NETWORK_RPC> --private-key <YOUR_PRI
 ## 📬 Contact
 📧 Email: willstansill@gmail.com  
 💼 LinkedIn: [linkedin.com/in/will-stansill](https://linkedin.com/in/will-stansill)  
-🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+🐙 GitHub: [github.com/yourusername](https://github.com/WillStansill)
 
 ---
 **Decentralized finance with security and reliability.** 🔗
